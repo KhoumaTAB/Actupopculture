@@ -1,0 +1,10 @@
+.background {
+  background-image: url(http://www.ping-awards.com/jeux-2016/dark-souls-3/banniere.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 200px;
+}
+
+.display-3 {
+  color: white;
+}
